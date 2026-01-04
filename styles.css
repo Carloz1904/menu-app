@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f7f7f7;
+}
+
+header {
+    background: #111;
+    color: white;
+    padding: 16px;
+    text-align: center;
+}
+
+main {
+    padding: 16px;
+    max-width: 600px;
+    margin: auto;
+}
+
+.categoria {
+    margin-bottom: 24px;
+}
+
+.platillo {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 0;
+    border-bottom: 1px solid #ddd;
+}
+
+footer {
+    text-align: center;
+    padding: 12px;
+    font-size: 14px;
+    color: #666;
+}
